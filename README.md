@@ -16,7 +16,7 @@ The player controls a black hole that escapes from a containment laboratory, gro
 
 | Entry | Date | Focus | Link |
 |---|---|---|---|
-| 01 | 2026-10-15 | Concept, proposal and scope | _(being back-filled)_ |
+| 01 | 2026-10-15 | Concept, references and proposal; project set-up | [Entry 1](DevLog/2026-10-15-entry-01.md) |
 | 02 | 2026-11-13 | Boss finite state machine, machine-gun strafing run, ground warning zone, homing missiles | [Entry 2](DevLog/2026-11-13-entry-02.md) |
 
 Each entry records what was built, the problems encountered with their causes, and the plan for the next period.
